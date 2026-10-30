@@ -97,6 +97,10 @@ Controls have zeroed translate and rotate channels. Placement lives on their `_g
 
 See the [User Guide](docs/USER_GUIDE.md), [demo capture list](docs/DEMO_SHOT_LIST.md), and [changelog](CHANGELOG.md).
 
+## Credits
+
+Written by Renat Yad. AI-assisted development. Code reviewed and tested manually.
+
 ## License
 
 [MIT](LICENSE) © Renat Yad, 2026.
