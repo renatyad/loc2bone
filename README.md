@@ -7,8 +7,6 @@ Build an FK joint-and-control rig from a labeled locator hierarchy in Maya.
 **Maya 2022–2026** · **Python only** · **No third-party dependencies**
 
 ![loc2bone demo](docs/loc2bone-demo.gif)
-<img width="380" alt="loc2bone FK Rig Builder"" src="https://github.com/user-attachments/assets/3c6cce3a-b952-40c1-b5b5-fb6551fd62f7" />
-
 
 ## Install
 
@@ -90,6 +88,8 @@ Controls have zeroed translate and rotate channels. Placement lives on their `_g
 - **Control Color** provides twelve viewport colors for newly built controls.
 - **Display Local Rotation Axes** enables local axes on newly created controls only.
 - **Undo** removes a locator-generation or rig-build operation in one step.
+
+<img width="383" height="538" alt="{81BE147E-2B4F-42F8-9BBD-154105E3D539}" src="https://github.com/user-attachments/assets/3c6cce3a-b952-40c1-b5b5-fb6551fd62f7" />
 
 ## Notes
 
