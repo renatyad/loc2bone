@@ -7,6 +7,8 @@ Build an FK joint-and-control rig from a labeled locator hierarchy in Maya.
 **Maya 2022–2026** · **Python only** · **No third-party dependencies**
 
 ![loc2bone demo](docs/loc2bone-demo.gif)
+<img width="766" height="1077" alt="{81BE147E-2B4F-42F8-9BBD-154105E3D539}" src="https://github.com/user-attachments/assets/3c6cce3a-b952-40c1-b5b5-fb6551fd62f7" />
+
 
 ## Install
 
@@ -95,7 +97,7 @@ Controls have zeroed translate and rotate channels. Placement lives on their `_g
 - Source locators are kept in the scene; the tool does not delete or alter them after a successful build.
 - The tool is intended for simple FK structures. It does not provide a rebuild or rig-update command.
 
-See the [User Guide](docs/USER_GUIDE.md), [demo capture list](docs/DEMO_SHOT_LIST.md), and [changelog](CHANGELOG.md).
+See the [User Guide](docs/USER_GUIDE.md), and [changelog](CHANGELOG.md).
 
 ## Credits
 
