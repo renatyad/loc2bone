@@ -10,7 +10,7 @@ Build an FK joint-and-control rig from a labeled locator hierarchy in Maya.
 
 ## Install
 
-1. Download `loc2bone.py`.
+1. Download [loc2bone.py](https://github.com/renatyad/loc2bone/releases).
 2. Drag the file into a Maya viewport.
 3. Click the new **loc2bone** button on the active shelf.
 
